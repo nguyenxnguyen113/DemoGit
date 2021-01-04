@@ -1,6 +1,4 @@
 function demo(name) {
-    this.name
+    this.list = []
 }
-function exportDemo(params) {
-    
-}
+module.export = demo
