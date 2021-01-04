@@ -1,5 +1,5 @@
-function demo(params) {
-    
+function demo(name) {
+    this.name
 }
 function exportDemo(params) {
     
